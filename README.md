@@ -35,9 +35,7 @@ AsyncImage for image loading
 NavigationStack for navigation
 
 📂 Project Structure
-pgsql
-Copy
-Edit
+
 ├── Models/
 │   └── Recipe.swift
 ├── ViewModels/
@@ -48,6 +46,7 @@ Edit
 ├── Assets/
 │   └── recipes.json
 └── ContentView.swift
+
 📦 Installation
 Clone the repository
 
