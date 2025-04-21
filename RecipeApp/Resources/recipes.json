@@ -1,0 +1,392 @@
+{
+  "recipes": [
+    {
+      "dynamicTitle": "Curtis Stone's tomato and bread salad with BBQ eggplant and capsicum",
+      "dynamicDescription": "For a crowd-pleasing salad, try this tasty combination of fresh tomato, crunchy bread and BBQ veggies. It’s topped with fresh basil and oregano for a finishing touch. ",
+      "dynamicThumbnail": "/content/dam/coles/inspire-create/thumbnails/Tomato-and-bread-salad-480x288.jpg",
+      "dynamicThumbnailAlt": "Tomato, bread and eggplant salad served in a large plate topped with basil leaves with vinaigrette on the side",
+      "recipeDetails": {
+        "amountLabel": "Serves",
+        "amountNumber": 8,
+        "prepLabel": "Prep",
+        "prepTime": "15m",
+        "prepNote": "+ cooling time",
+        "cookingLabel": "Cooking",
+        "cookingTime": "15m",
+        "cookTimeAsMinutes": 15,
+        "prepTimeAsMinutes": 15
+      },
+      "ingredients": [
+        {
+          "ingredient": "1 cup (250ml) extra virgin olive oil, divided"
+        },
+        {
+          "ingredient": "4 cups (240g) 2cm-pieces day-old Coles Bakery Stone Baked by Laurent Pane Di Casa"
+        },
+        {
+          "ingredient": "4 Lebanese eggplants, halved lengthways"
+        },
+        {
+          "ingredient": "1 red capsicum, quartered, seeded"
+        },
+        {
+          "ingredient": "1 yellow capsicum, quartered, seeded"
+        },
+        {
+          "ingredient": "1/2 cup (125ml) red wine vinegar"
+        },
+        {
+          "ingredient": "1 tbs red wine vinegar, extra"
+        },
+        {
+          "ingredient": "3 garlic cloves, crushed"
+        },
+        {
+          "ingredient": "4 medium vine-ripened tomatoes, cut into 3cm pieces"
+        },
+        {
+          "ingredient": "200g grape kumato tomatoes, halved"
+        },
+        {
+          "ingredient": "1 Lebanese cucumber, cut into 3cm pieces"
+        },
+        {
+          "ingredient": "1 long red chilli, seeded, finely chopped"
+        },
+        {
+          "ingredient": "2/3 cup basil leaves"
+        },
+        {
+          "ingredient": "2 tsp oregano sprigs"
+        }
+      ]
+    },
+    {
+      "dynamicTitle": "Pork, fennel and sage ragu with polenta",
+      "dynamicDescription": "Put your slow cooker to work and make this mouth-watering pork ragu. Served with fluffy polenta, it’s a guaranteed crowd-pleaser.  ",
+      "dynamicThumbnail": "/content/dam/coles/inspire-create/thumbnails/Pork-ragu-480x288.jpg",
+      "dynamicThumbnailAlt": "Pork ragu served on top of polenta with fennel and fried sage on top with bread on the side",
+      "recipeDetails": {
+        "amountLabel": "Serves",
+        "amountNumber": 8,
+        "prepLabel": "Prep",
+        "prepTime": "15m",
+        "prepNote": "+ cooling time",
+        "cookingLabel": "Cooking",
+        "cookingTime": "15m",
+        "cookTimeAsMinutes": 15,
+        "prepTimeAsMinutes": 15
+      },
+      "ingredients": [
+        {
+          "ingredient": "1.2kg Coles Australian Pork Slow Cook Scotch Roast, cut into 10cm pieces"
+        },
+        {
+          "ingredient": "1 tsp ground fennel or fennel seeds"
+        },
+        {
+          "ingredient": "6 pancetta slices, thinly sliced"
+        },
+        {
+          "ingredient": "200ml red wine or chicken stock"
+        },
+        {
+          "ingredient": "1 tbs olive oil"
+        },
+        {
+          "ingredient": "1 brown onion, thinly sliced"
+        },
+        {
+          "ingredient": "2 x 400g cans cherry tomatoes"
+        },
+        {
+          "ingredient": "1 carrot, peeled, finely chopped"
+        },
+        {
+          "ingredient": "1 small fennel, thinly sliced, fronds reserved"
+        },
+        {
+          "ingredient": "2 garlic cloves, crushed"
+        },
+        {
+          "ingredient": "1 tbs finely chopped sage"
+        }
+      ]
+    },
+    {
+      "dynamicTitle": "Apple and kale panzanella",
+      "dynamicDescription": "For a wintery spin on a classic dish, try this fresh panzanella salad. It’s bursting with vibrant veggies and zesty flavour. ",
+      "dynamicThumbnail": "/content/dam/coles/inspire-create/thumbnails/Panzanella-salad-480x280.jpg",
+      "dynamicThumbnailAlt": "Roasted carrots, radish, pear, kale and herbs served on a plate",
+      "recipeDetails": {
+        "amountLabel": "Serves",
+        "amountNumber": 4,
+        "prepLabel": "Prep",
+        "prepTime": "20m",
+        "cookingLabel": "Cooking",
+        "cookingTime": "30m",
+        "cookTimeAsMinutes": 30,
+        "prepTimeAsMinutes": 20
+      },
+      "ingredients": [
+        {
+          "ingredient": "2 bunches Dutch carrots, trimmed"
+        },
+        {
+          "ingredient": "2/3 cup (160ml) olive oil"
+        },
+        {
+          "ingredient": "1/2 Coles Finest by Laurent White Sourdough Vienna, day-old, cut into 4cm pieces"
+        },
+        {
+          "ingredient": "1/4 cup (20g) finely grated parmesan"
+        },
+        {
+          "ingredient": "1/2 lemon, rind finely grated, juiced"
+        },
+        {
+          "ingredient": "2 garlic cloves, finely chopped"
+        },
+        {
+          "ingredient": "1/2 cup (125ml) buttermilk"
+        },
+        {
+          "ingredient": "1 1/2 tbs apple cider vinegar"
+        },
+        {
+          "ingredient": "1/2 bunch kale, leaves coarsely torn"
+        },
+        {
+          "ingredient": "1/2 cup mint leaves"
+        },
+        {
+          "ingredient": "1/2 cup flat-leaf parsley leaves"
+        },
+        {
+          "ingredient": "2 apples, thinly sliced"
+        },
+        {
+          "ingredient": "2 spring onions, thinly sliced"
+        },
+        {
+          "ingredient": "1/4 cup (50g) pepitas (pumpkin seeds), toasted"
+        }
+      ]
+    },
+    {
+      "dynamicTitle": "Tasia and Gracia's Hainanese chicken rice",
+      "dynamicDescription": "Try making this delicious Hainanese Chicken Rice at home for your next family meal. ",
+      "dynamicThumbnail": "/content/dam/coles/inspire-create/thumbnails/whats-for-dinner-live-thumbnails/Tasia-and-Gracia-Hainanese-Chicken-480x288.jpg",
+      "dynamicThumbnailAlt": "Hainanese chciken served in a plate with cucumber, a bowl of rice, a bowl of chilli oil, and a bowl of spring onion oil with picture of Tasia and Gracia over the top",
+      "recipeDetails": {
+        "amountLabel": "Serves",
+        "amountNumber": 6,
+        "prepLabel": "Prep",
+        "prepTime": "15m",
+        "cookingLabel": "Cooking",
+        "cookingTime": "50m",
+        "cookTimeAsMinutes": 50,
+        "prepTimeAsMinutes": 15
+      },
+      "ingredients": [
+        {
+          "ingredient": "5 celery sticks, cut into chunks "
+        },
+        {
+          "ingredient": "2 carrots, peeled, cut into chunks "
+        },
+        {
+          "ingredient": "1/2 brown onion, roughly chopped"
+        },
+        {
+          "ingredient": "2 spring onions, cut into 5cm lengths "
+        },
+        {
+          "ingredient": "20g ginger, roughly chopped"
+        },
+        {
+          "ingredient": "1 Coles RSPCA Approved Australian Free Range Whole Chicken"
+        },
+        {
+          "ingredient": "Coriander springs, for garnish"
+        },
+        {
+          "ingredient": "Sliced cucumber, for garnish"
+        }
+      ]
+    },
+    {
+      "dynamicTitle": "Cauliflower soup with smoked cheddar",
+      "dynamicDescription": "Creamy in texture and cheesy in flavour, this cauliflower soup with smoked cheddar is savoury bliss. ",
+      "dynamicThumbnail": "/content/dam/coles/inspire-create/thumbnails/cauliflower-soup--480x288.jpg",
+      "dynamicThumbnailAlt": "Cauliflower soup served with smoked almond pesto and basil",
+      "recipeDetails": {
+        "amountLabel": "Serves",
+        "amountNumber": 4,
+        "prepLabel": "Prep",
+        "prepTime": "10m",
+        "prepNote": "+ cooling time",
+        "cookingLabel": "Cooking",
+        "cookingTime": "25m",
+        "cookTimeAsMinutes": 25,
+        "prepTimeAsMinutes": 10
+      },
+      "ingredients": [
+        {
+          "ingredient": "20g butter"
+        },
+        {
+          "ingredient": "2 tbs olive oil"
+        },
+        {
+          "ingredient": "1 brown onion, coarsely chopped"
+        },
+        {
+          "ingredient": "1 garlic clove, crushed"
+        },
+        {
+          "ingredient": "1 medium cauliflower, coarsely chopped"
+        },
+        {
+          "ingredient": "4 cups (1L) salt-reduced vegetable or chicken stock"
+        },
+        {
+          "ingredient": "1 cup (120g) coarsely grated smoked cheddar"
+        },
+        {
+          "ingredient": "1/2 cup (125ml) pouring (pure) cream or thickened cream"
+        },
+        {
+          "ingredient": "1 cup small cauliflower florets, extra for serving"
+        },
+        {
+          "ingredient": "1/2 cup basil sprigs"
+        }
+      ]
+    },
+    {
+      "dynamicTitle": "Lamb shank ragu with pappardelle",
+      "dynamicDescription": "Embrace the cooler weather and whip up this hearty lamb shank ragu with pappardelle. Packed with rich tomato flavour, this dish will be your new go-to.",
+      "dynamicThumbnail": "/content/dam/coles/inspire-create/thumbnails/Lamb-shank-ragu-with-pappardelle-480x288.jpg",
+      "dynamicThumbnailAlt": "Lamb shank ragu served on pappardelle with shaved parmesan and flat leaf parsley",
+      "recipeDetails": {
+        "amountLabel": "Serves",
+        "amountNumber": 4,
+        "prepLabel": "Prep",
+        "prepTime": "15m",
+        "prepNote": "+ cooling time",
+        "cookingLabel": "Cooking",
+        "cookingTime": "2h 20m",
+        "cookTimeAsMinutes": 140,
+        "prepTimeAsMinutes": 15
+      },
+      "ingredients": [
+        {
+          "ingredient": "2 tbs olive oil"
+        },
+        {
+          "ingredient": "200g brown mushrooms, thinly sliced"
+        },
+        {
+          "ingredient": "2 garlic cloves, crushed"
+        },
+        {
+          "ingredient": "1 1/2 cups (375ml) dry red wine or beef stock"
+        },
+        {
+          "ingredient": "400g can diced tomatoes"
+        },
+        {
+          "ingredient": "2 tbs rosemary leaves, chopped"
+        },
+        {
+          "ingredient": "2 Coles Australian Lamb Shanks"
+        },
+        {
+          "ingredient": "1 brown onion, thinly sliced"
+        },
+        {
+          "ingredient": "300g fresh or dried pappardelle"
+        },
+        {
+          "ingredient": "2 tbs tomato paste"
+        }
+      ]
+    },
+    {
+      "dynamicTitle": "Curtis Stone's lamb roast with hasselback pumpkin and balsamic brown butter",
+      "dynamicDescription": "Curtis Stone puts a fresh twist on a classic lamb roast, pairing it with flavoursome hasselback pumpkin and balsamic brown butter for an irresistible meal.\r\n",
+      "dynamicThumbnail": "/content/dam/coles/inspire-create/thumbnails/Lamb-and-hasselback-pumpkin-480x288.jpg",
+      "dynamicThumbnailAlt": "Sliced roast lamb served with hasselback pumpkin, rocket and dressing",
+      "recipeDetails": {
+        "amountLabel": "Serves",
+        "amountNumber": 2,
+        "prepLabel": "Prep",
+        "prepTime": "5m",
+        "cookingLabel": "Cooking",
+        "cookingTime": "40m",
+        "cookTimeAsMinutes": 40,
+        "prepTimeAsMinutes": 5
+      },
+      "ingredients": [
+        {
+          "ingredient": "2 x 500g butternut pumpkin halves, peeled, seeded"
+        },
+        {
+          "ingredient": "Olive oil, to coat "
+        },
+        {
+          "ingredient": "1kg Coles Australian Lamb Boneless Leg Roast, excess fat trimmed"
+        },
+        {
+          "ingredient": "1 tbs finely chopped rosemary"
+        },
+        {
+          "ingredient": "Baby rocket leaves, to serve"
+        },
+        {
+          "ingredient": "Rosemary sprigs, to serve"
+        }
+      ]
+    },
+    {
+      "dynamicTitle": "Gnocchi with pumpkin and whipped ricotta",
+      "dynamicDescription": "Make gnocchi and pistachio pesto from scratch and pair it with ricotta and pumpkin for a mouth-watering dinner. ",
+      "dynamicThumbnail": "/content/dam/coles/inspire-create/thumbnails/Gnocchi-with-pumpkin-and-whipped-ricotta-480x288.jpg",
+      "dynamicThumbnailAlt": "Gnocchi with pumkin and pesto served on top of whipped ricotta",
+      "recipeDetails": {
+        "amountLabel": "Serves",
+        "amountNumber": 4,
+        "prepLabel": "Prep",
+        "prepTime": "15m",
+        "cookingLabel": "Cooking",
+        "cookingTime": "30m",
+        "cookTimeAsMinutes": 30,
+        "prepTimeAsMinutes": 15
+      },
+      "ingredients": [
+        {
+          "ingredient": "800g butternut pumpkin, peeled, seeded, finely chopped"
+        },
+        {
+          "ingredient": "250g smooth ricotta"
+        },
+        {
+          "ingredient": "100g goats cheese"
+        },
+        {
+          "ingredient": "1/4 cup (60ml) thickened cream"
+        },
+        {
+          "ingredient": "500g Coles Potato Gnocchi "
+        },
+        {
+          "ingredient": "1 tbs olive oil"
+        },
+        {
+          "ingredient": "120g baby rocket leaves"
+        }
+      ]
+    }
+  ]
+}
